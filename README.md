@@ -27,4 +27,4 @@
 
 <br/><br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyoni&layout=compact&langs_count=8&theme=vue-dark&bg_color=FFFFFF&title_color=445878&text_color=000000)](https://github.com/anuraghazra/github-readme-stats) &nbsp; ![YUYONI's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyoni&show_icons=true&theme=graywhite&rank_icon=github)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyoni&layout=compact&langs_count=8&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) &nbsp; ![YUYONI's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyoni&show_icons=true&theme=vue-dark&rank_icon=github)
