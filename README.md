@@ -1,8 +1,14 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:B2BED9,90:B7D4CD&height=200&&section=footer&text=Welcome%20to%20My%20Code%20Space!&fontSize=55&fontColor=FFFFFF&borderRadius=30&animation=twinkling&fontAlignY=65)
 
-<div align="center" style="position: relative; display: inline-block;">
-  <img src="https://images.creativemarket.com/0.1.0/ps/2333811/2865/772/m1/fpnw/wm1/ir0wx6a5gzdwnn9idyrwjckywfvo0vrkta3h9aebe5semthwdvrdxekgdq15biwu-.jpg?1488194857&s=b4a94cc4f7ca410f3de5fde4c2cdd8af" alt="배경 이미지" style="width: 100%;">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 24px;">
-     Hi This is Yuyeon Lee's Github!
-  </div>
-</div>
+### Language Skills
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp;![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) &nbsp;![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+
+
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=yuyoni&show_icons=true&count_private=true&theme=solarized-light&hide_border=true&bg_color=00000000&hide_rank=true">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=yuyoni&layout=compact&hide_border=true&theme=solarized-light&bg_color=00000000&langs_count=8">
+  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=yuyoni&theme=solarized-light&hide_border=true&background=FFFFFF00">
+</p>
+
