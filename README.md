@@ -8,6 +8,6 @@
 <br/><br/>
 ### GitHub stats
   
-![YUYONI's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyoni&show_icons=true&theme=vue&rank_icon=github&icon_color=445878&bg_color=FFFFFF&title_color=445878&text_color=000000)
+![YUYONI's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyoni&show_icons=true&theme=vue&rank_icon=github)
 
 
