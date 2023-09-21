@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:B2BED9,90:B7D4CD&height=200&&section=footer&text=Welcome%20to%20My%20Code%20Space!&fontSize=55&fontColor=FFFFFF&borderRadius=30&animation=twinkling&fontAlignY=65)
 <br/><br/><br/>
-### Skills I've used & GitHub stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyoni&layout=compact&langs_count=8&theme=vue-dark&bg_color=FFFFFF&title_color=445878&text_color=000000)](https://github.com/anuraghazra/github-readme-stats) &nbsp; ![YUYONI's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyoni&show_icons=true&theme=graywhite&rank_icon=github)
 
