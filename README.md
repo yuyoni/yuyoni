@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp;![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) &nbsp;![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-![YUYONI's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyoni&show_icons=true&theme=radical)
 [![YUYONI's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyoni&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![YUYONI's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyoni&show_icons=true&theme=radical)
 
 
