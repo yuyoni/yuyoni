@@ -6,6 +6,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyoni&layout=donut&langs_count=8&bg_color=FFFFFF80&title_color=000000&text_color=000000&icon_color=000000)](https://github.com/anuraghazra/github-readme-stats) ![YUYONI's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyoni&show_icons=true&bg_color=FFFFFF80&title_color=000000&icon_color=B7D4CD&rank_icon=github)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyoni&layout=donut&langs_count=8&theme=vue)](https://github.com/anuraghazra/github-readme-stats) ![YUYONI's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyoni&show_icons=true&theme=vue&rank_icon=github)
 
 
