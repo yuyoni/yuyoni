@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:B2BED9,90:B7D4CD&height=200&&section=footer&text=Welcome%20to%20My%20Code%20Space!&fontSize=55&fontColor=FFFFFF&borderRadius=30&animation=twinkling&fontAlignY=65)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com) 
+
 <br/><br/>
 ## 🔨 Languages and Frameworks I've Used 🔨
 
@@ -27,4 +29,4 @@
 
 <br/><br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyoni&layout=donut&langs_count=8&theme=vue-dark&bg_color=FFFFFF&title_color=445878&text_color=000000)](https://github.com/anuraghazra/github-readme-stats) &nbsp;[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com) &nbsp;![YUYONI's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyoni&show_icons=true&theme=vue&rank_icon=github&icon_color=445878&bg_color=FFFFFF&title_color=445878&text_color=000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyoni&layout=donut&langs_count=8&theme=vue-dark&bg_color=FFFFFF&title_color=445878&text_color=000000)](https://github.com/anuraghazra/github-readme-stats) &nbsp;![YUYONI's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyoni&show_icons=true&theme=vue&rank_icon=github&icon_color=445878&bg_color=FFFFFF&title_color=445878&text_color=000000)
