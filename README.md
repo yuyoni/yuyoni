@@ -27,4 +27,4 @@
 
 <br/><br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyoni&layout=donut&langs_count=8&theme=vue-dark&bg_color=FFFFFF&title_color=445878&text_color=000000)](https://github.com/anuraghazra/github-readme-stats) &nbsp;![YUYONI's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyoni&show_icons=true&theme=vue&rank_icon=github&icon_color=445878&bg_color=FFFFFF&title_color=445878&text_color=000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyoni&layout=donut&langs_count=8&theme=vue-dark&bg_color=FFFFFF&title_color=445878&text_color=000000)](https://github.com/anuraghazra/github-readme-stats) &nbsp;[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com) &nbsp;![YUYONI's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyoni&show_icons=true&theme=vue&rank_icon=github&icon_color=445878&bg_color=FFFFFF&title_color=445878&text_color=000000)
