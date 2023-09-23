@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:B2BED9,90:B7D4CD&height=200&&section=footer&text=Welcome%20to%20My%20Code%20Space!&fontSize=55&fontColor=FFFFFF&borderRadius=30&animation=twinkling&fontAlignY=65)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com) 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyuyoni)](https://hits.seeyoufarm.com) 
 <br/><br/>
 ## 🔨 Languages and Frameworks I've Used 🔨
 
