@@ -4,10 +4,10 @@
 <br/><br/>
 ## 🔨 Languages and Frameworks I've Used 🔨
 
-### **Language Skills** 
+### ** Language ** 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) &nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) &nbsp;![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) &nbsp;
 
-### **Frameworks**
+### ** Frameworks **
 &nbsp;![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) &nbsp;![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) &nbsp;![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) &nbsp;![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) &nbsp;![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 <br/><br/>
 
