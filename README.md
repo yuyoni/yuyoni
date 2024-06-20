@@ -13,5 +13,4 @@
 <br/><br/>
 <br/><br/>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyoni&layout=donut&hide=CMake,Jupyter%20Notebook&langs_count=5&theme=vue-dark&bg_color=FFFFFF&title_color=445878&text_color=000000)](https://github.com/anuraghazra/github-readme-stats) &nbsp;![YUYONI's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyoni&show_icons=true&theme=vue&rank_icon=default&icon_color=445878&bg_color=FFFFFF&title_color=445878&text_color=000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyoni&layout=donut&hide=CMake,Jupyter%20Notebook,Dart,Ruby,C&langs_count=5&theme=vue-dark&bg_color=FFFFFF&title_color=445878&text_color=000000)](https://github.com/anuraghazra/github-readme-stats) &nbsp;![YUYONI's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyoni&show_icons=true&theme=vue&rank_icon=default&icon_color=445878&bg_color=FFFFFF&title_color=445878&text_color=000000)
