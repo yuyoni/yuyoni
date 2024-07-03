@@ -10,7 +10,6 @@
 
 ### ** Libraries & Frameworks I've Used **
 &nbsp;![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) &nbsp;![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) &nbsp;
-
 <br/><br/>
 <br/><br/>
 
